@@ -2,10 +2,10 @@
 
 ## Ficha tecnica
 
-| Nombre:       |  | 
-| Principal fundador:      | |
-| Año de fundacion:  | | 
-| Web:  | | 
+
+| Nombre | Fundador | Año de fundacion | Web |
+| -------|:--------:|:----------------:|----:|
+|        |          |                  |     |
 
 
 ## Sobre el fundador
