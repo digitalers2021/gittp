@@ -23,4 +23,8 @@
 *Nombre una o mas tecnologias utilizada por esta aplicacion*
 
 
+## Linkiografia
+
+*Algunos links de donde se haya sacado la informacion*
+
 

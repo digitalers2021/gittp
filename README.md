@@ -10,7 +10,7 @@ Todas las respuestas deben ser respondidas en ese archivo y tiene que haber al m
 3. Por otro lado se debe generar un nuevo archivo en el respositorio llamado **integrantes.md** con el nombre de cada uno de los participantes. 
 4. Una vez finalizado se debe realizar un pull request a este reposiotorio para que pueda ser evaluado. 
 
-El TP solo tendra calificacion *Aprobado* o *Desaprobado*. 
+El TP solo tendra calificacion *Aprobado* o *Revision*. 
 
 ## Requerimientos
 - Fecha de entrega: 3/06/2021
