@@ -21,11 +21,13 @@ Martin Lorentzon junto a Felix Hagno fundaron Netstrategy en Septiembre de 1999 
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+Ordenador, teléfono, tablet, altavoes, televisor, autos.
 
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
-
+https://support.spotify.com/es/article/what-is-spotify/
+https://es.wikipedia.org/wiki/Daniel_Ek
+https://es.wikipedia.org/wiki/Spotify
+https://www.tunemymusic.com/es/Spotify-VS-Deezer.php#:~:text=Spotify%20tiene%20una%20interfaz%20muy,ofrece%20varias%20opciones%20de%20exploraci%C3%B3n.&text=Spotify%20trabaja%20con%20listas%20de,ellas%20es%20simple%20e%20intuitivo
 
