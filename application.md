@@ -15,8 +15,9 @@
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
+* Permite la participación de hasta 500 personas y hasta 1000 espectadores.
+* Diferentes planes segun las necesidades de los usuarios.
+* No hay necesidad de instalar nada en especial en el dispositivo a utilizar, ni estar registrado para entrar a una reunión.
 
 ## Tecnologias utilizadas
 
