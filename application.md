@@ -21,11 +21,13 @@
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+*En dispositivos moviles
+*Computadoras
+*Tablets
 
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
+*https://es.wikipedia.org/wiki/Zoom_Video_Communications
 
 
