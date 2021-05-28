@@ -10,8 +10,14 @@
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+Eric Yuan nació en Shandong, en 1970. 
+En 1987 ingresó a la Universidad de Ciencia y Tecnología de Shandong, para después estudiar una maestría en ingeniería en la Universidad de Minería y Tecnología de China.
+
+Yuan intentó emigrar a Estados Unidos en repetidas ocasiones, pero su visado fue denegado en todas las ocasiones. 
+Su solicitud fue aprobada en 1997, cuando tenía 27 años. Entonces empezó a trabajar en WebEx, donde ascendió hasta convertirse en vicepresidente de la compañía. 
+En 2007, Cisco Systems adquirió WebEx, por lo que Yuan formó parte del departamento de ingeniería de Cisco.
+Eric Yuan renunció a su trabajo en Cisco para fundar Zoom en 2011, a pesar de que muchos consideraban que su idea no podía tener éxito debido a la competencia en el mercado de las videoconferencias. 
+Junto con un excolaborador de Cisco como socio e inversor, empezó la compañía.
 
 ## Lo mas caracteristico de la aplicacion
 
@@ -29,5 +35,5 @@
 ## Linkiografia
 
 *https://es.wikipedia.org/wiki/Zoom_Video_Communications
-
-
+https://es.wikipedia.org/wiki/Eric_Yuan
+	
