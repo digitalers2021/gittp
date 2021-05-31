@@ -1,30 +1,24 @@
-# [NOMBRE DE APLICACION]
+# [MEDIUM]
 
 ## Ficha tecnica
 
-
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
-
+| Nombre | -------- Fundador --------| Año de fundacion | ------- Web ------ |
+| Medium | Evan Williams y Biz Stone |------ 2012 ----- | https://medium.com |
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+_que informacion hay del fundador?_
+_estuvo en otros proyectos? anteriores o posteriores a esta app?_
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
+_Que caracterizo a esta aplicacion por sobre otras en el mercado?_
+_Que la diferencia de la competencia?_
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
-
+_Nombre una o mas tecnologias utilizada por esta aplicacion_
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
-
-
+_Algunos links de donde se haya sacado la informacion_
