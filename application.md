@@ -2,8 +2,8 @@
 
 ## Ficha tecnica
 
-| Nombre | -------- Fundador --------| Año de fundacion | ------- Web ------ |
-| Medium | Evan Williams y Biz Stone |------ 2012 ----- | https://medium.com |
+| Nombre |          Fundador         | Año de fundación |         Web        |
+| Medium | Evan Williams y Biz Stone |       2012       | https://medium.com |
 
 ## Sobre el fundador
 
