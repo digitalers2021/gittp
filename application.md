@@ -1,17 +1,18 @@
-# [NOMBRE DE APLICACION]
+# Steam
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
+| Nombre |    Fundadores   | Año de fundacion |              Web               |
+| -------|:---------------:|:----------------:|-------------------------------:|
+|  Steam |  Gabe Newell y  |       1996       | https://store.steampowered.com |
+|        | Mike Harrington |                  |                                |
 
 
-## Sobre el fundador
+## Sobre los fundadores
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+Gabe Newell trabajó para Microsoft durante 13 años, participando activamente en proyectos como WindowsNT y OS/2. En 1996 funda Valve Corp, junto con su compañero y amigo Mike Harrington, quien también trabajó para Microsoft anteriormente. En el año 2000, y luego del éxito de sus juegos, como Half Life, Mike decide disolver su sociedad con Gabe y comienza una serie de nuevos proyectos personales, que incluyen Picnik (posteriormente adquirido por Google), Catnip Labs y actualmente Amplion.
+Por su parte, Gabe se dedicó plenamente a desarrollar proyectos para su plataforma Steam, como las secuelas de Half Life y Counter Strike.
 
 ## Lo mas caracteristico de la aplicacion
 
@@ -25,6 +26,6 @@
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
+https://es.wikipedia.org/wiki/Valve_Corporation
 
 
