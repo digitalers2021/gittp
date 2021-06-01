@@ -17,7 +17,12 @@ Por su parte, Gabe se dedicó plenamente a desarrollar proyectos para su platafo
 ## Lo mas caracteristico de la aplicacion
 
 *Que caracterizo a esta aplicacion por sobre otras en el mercado?*
+
+Una de las plataformas para comprar videojuegos más estables y completas que existen, donde particularmente en Argentina, cuenta con unos precios asequibles, en la misma aplicación tenemos muchas cosas utiles como por ejemplo, tener una biblioteca con todos nuestros juegos desde la cual podemos ver la cantidad de horas jugadas que tenemos en cada juego, los logros que hemos sacado en cada uno de ellos, y además cuenta con un guardado en la nube llamado "Steam cloud" donde vamos a poder almacenar todas nuestras partidas guardadas que tengamos en distinto juegos.
+
 *Que la diferencia de la competencia?*
+
+Su competencia como pueden ser Epic Games, GOG, Origin, todavía están por detrás en cuanto a cantidad de características que nos brindan, la que más se le acerca podría ser Epic Games, donde tenemos una biblioteca bastante amplia también, pero aún así no llega a ser tan grande como la de Steam, también nos quedamos sin cosas que se han vuelto esenciales para quienes venimos de usar Steam, como pueden ser el conteo de horas jugadas, facilidad de jugar con amigos, etc.
 
 ## Tecnologias utilizadas
 
@@ -27,5 +32,5 @@ Por su parte, Gabe se dedicó plenamente a desarrollar proyectos para su platafo
 ## Linkiografia
 
 https://es.wikipedia.org/wiki/Valve_Corporation
-
+https://www.makeuseof.com/tag/steam-vs-epic-games-store/
 
