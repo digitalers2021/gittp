@@ -26,8 +26,6 @@ Su competencia como pueden ser Epic Games, GOG, Origin, todavía están por detr
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
-
 Steam utiliza tecnologias como C, C++ , Python , Sql Server , PHP e incluye la creación de scripts con PowerShell
 
 ## Linkiografia
