@@ -1,11 +1,11 @@
-# [NOMBRE DE APLICACION]
+# Visual Studio Code (VS Code)
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
+| Nombre                   | Fundador    | Año de fundacion | Web                           |
+| -------------------------|:-----------:|:----------------:|------------------------------:|
+| Visual Studio Code       | Erich Gamma | April 29, 2015   | https://code.visualstudio.com |
 
 
 ## Sobre el fundador
