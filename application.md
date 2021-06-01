@@ -22,9 +22,17 @@
 
 *Nombre una o mas tecnologias utilizada por esta aplicacion*
 
+VScode está escrito en JavaScript con Electron.js como framework y Node.js como 
+entorno de desarrollo y usa el motor V8 de Chromium (versión libre de Google Chrome).
 
 ## Linkiografia
 
 *Algunos links de donde se haya sacado la informacion*
+
+https://en.wikipedia.org/wiki/Erich_Gamma
+
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+https://code.visualstudio.com/?wt.mc_id=DX_841432
 
 
