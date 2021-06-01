@@ -24,6 +24,7 @@ diseño de herramientas de desarrollo java para Eclipse, y trabajo en el IBM rat
 ## Lo mas caracteristico de la aplicacion
 
 *Que caracterizo a esta aplicacion por sobre otras en el mercado?*
+
 Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS. 
 Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código. 
 También es personalizable, por lo que los usuarios pueden cambiar el tema del editor, los atajos de teclado y las preferencias. 
