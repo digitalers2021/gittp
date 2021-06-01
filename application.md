@@ -1,17 +1,16 @@
 # [NOMBRE DE APLICACION]
-
+MuseScore 3
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
+|  Nombre   |  Fundador   |  Año de fundacion |   Web                    |
+| ----------|:-----------:|:----------------: |-------------------------:|
+| MuseScore | Open source |        2011       |https://musescore.org/es  |
 
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+MuseScore 3 es un programa open source, por lo que no tiene un fundador, fue desarrollado por la comunidad.
 
 ## Lo mas caracteristico de la aplicacion
 
@@ -26,5 +25,5 @@
 ## Linkiografia
 
 *Algunos links de donde se haya sacado la informacion*
-
+https://es.wikipedia.org/wiki/MuseScore
 
