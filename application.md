@@ -28,9 +28,11 @@ Su competencia como pueden ser Epic Games, GOG, Origin, todavía están por detr
 
 *Nombre una o mas tecnologias utilizada por esta aplicacion*
 
+Steam utiliza tecnologias como C, C++ , Python , Sql Server , PHP e incluye la creación de scripts con PowerShell
 
 ## Linkiografia
 
 https://es.wikipedia.org/wiki/Valve_Corporation
 https://www.makeuseof.com/tag/steam-vs-epic-games-store/
+https://www.valvesoftware.com/es/
 
