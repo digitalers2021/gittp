@@ -1,1 +1,2 @@
-Garzon Herrera, Ariel Alain, Diego Sánchez
+Garzon Herrera, Ariel Alain;
+Diego Sánchez;
