@@ -10,17 +10,15 @@
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+El concepto de Discord viene del director ejecutivo Jason Citron, quien había fundado OpenFeint, una plataforma de juegos sociales para dispositivos móviles. Finalmente vendió OpenFeint a GREE en 2011 por 104 millones de dólares,​ que usó para fundar Hammer & Chisel, un estudio de desarrollo de juegos, en 2012.
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
+
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+El cliente de Discord se basa en el framework Electron y está hecho con herramientas de desarrollo web, lo que le permite ser multiplataforma y ejecutarse en ordenadores personales y en la web. El software es apoyado por once centros de datos diseminados por todo el mundo para mantener baja la latencia con los clientes. En este proyecto se utilizo JavaScript Elixir Electron Rust Python C++
 
 
 ## Linkiografia
