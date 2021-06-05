@@ -31,5 +31,6 @@ YouTube compartió en 2016 un informe academico el funcionamiento del algoritmo 
 https://graffica.info/quien-creo-youtube/*
 *https://es.wikipedia.org/wiki/YouTube*
 *https://www.ciudadano2cero.com/youtube-que-es-como-funciona/#:~:text=La%20variedad%20del%20contenido%2C%20la,lo%20tiene%20muy%20difícil%20competir*
+*https://blog.hootsuite.com/es/algoritmo-de-youtube/*
 
 
