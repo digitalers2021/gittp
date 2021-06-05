@@ -20,6 +20,12 @@ Steve Chen antes del lanzamiento de YouTube trabajó para Facebook y luego para 
 
 *YouTube usa un reproductor en línea que se basa en HTML5, soportado por los navegadores mas difundidos, antiguamente funcionaba con Adobe Flash, herramienta que sería descartada en el 2016. El codigo de HTML puede ser incrustado en múltiplicidad de páginas y blogs*
 
+*En un principio, en lo único en lo que se centraba el algoritmo de YouTube para determinar qué videos tendrían un ranking más alto era el total de veces que alguien daba clic en la opción “reproducir” de un video.
+
+Así que en 2012, YouTube cambió su algoritmo de ranking para recompensar la interacción en vez de los clics, otorgando vistas de acuerdo al tiempo que se reprodujo el video, una medida más precisa de cómo los usuarios activos encuentran un video.
+
+YouTube compartió en 2016 un informe academico el funcionamiento del algoritmo que usa para generar las recomendaciones de videos, adjunto "Deep Neural Networks fot Youtube Recomendations".*
+
 
 ## Linkiografia
 https://graffica.info/quien-creo-youtube/*
