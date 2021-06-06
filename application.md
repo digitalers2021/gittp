@@ -1,4 +1,4 @@
-# REDDIT
+# REDDIT.
 
 ## Ficha tecnica
 
