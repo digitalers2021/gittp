@@ -1,11 +1,11 @@
-# [NOMBRE DE APLICACION]
+# [SPOTIFY]
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
+| Nombre |     Fundador   | Año de fundacion |            Web                 |
+| SPOTIFY|DANIEL EK       |        2006      | https://www.spotify.com/ar/    |
+|        |MARTIN LORENTZON|                  |                                |
 
 
 ## Sobre el fundador
