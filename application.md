@@ -37,6 +37,7 @@ Apple’s Music es conocida por sus exclusivas de alto perfil, su sólida biblio
 Aún así, Spotify sigue siendo el campeón mundial. En realidad, la competencia entre estos dos ha ayudado a la industria discográfica a alcanzar niveles récord de ingresos digitales, haciendo que la respuesta a la pregunta de cuál es mejor se haya vuelto cada vez más difícil.
 
 ## Tecnologias utilizadas
+Programado en:	Python, Javascript, React, etc.
 
 Algunas de las tecnologías que abarca spotify:
 	
