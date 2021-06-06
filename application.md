@@ -4,14 +4,14 @@
 
 
 | Nombre |     Fundador   | Año de fundacion |            Web                 |
+
 | SPOTIFY|DANIEL EK       |        2006      | https://www.spotify.com/ar/    |
+
 |        |MARTIN LORENTZON|                  |                                |
 
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
 Daniel Ek:
 
 Nacio en Estocolmo, Suecia, el 21 de febrero de 1983; es un empresario y tecnólogo multimillonario sueco.Ek es mejor conocido como el cofundador y CEO del servicio de transmisión de música Spotify.La primera incursión de Ek en el mundo de los negocios comenzó a los 13 años cuando comenzó un negocio creando sitios web para clientes desde su hogar.
@@ -28,8 +28,6 @@ Desde abril de 2019, trabaja en temas de integración de inmigrantes de Suecia p
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
 Spotify ofrece transferencia de archivos de audio por Internet a través de la combinación de servidores dedicados al streaming y en la transferencia de red de pares (P2P) en la que participan los usuarios. Una conexión a Internet de 256 kbit/s es suficiente, y la tasa de bits de las pistas es de 320 kbit/s. Los archivos de audio se pueden reproducir bajo demanda, como si estuvieran en el disco duro del usuario. Las canciones se guardan en la caché del software para evitar consumir más ancho de banda al repetir las canciones una y otra vez. Utiliza el códec de audio Vorbis (Ogg).
 Los usuarios en modo premium acceden un nivel de calidad de audio superior (q9). El contenido de la caché del software se basa en un índice que sirve para que Spotify conecte con el servicio. Este índice se utiliza para informar a otros clientes sobre otros usuarios que pueden conectarse a los datos para que se reproduzcan las pistas que desea escuchar.
 Se hace por cada cliente que utiliza el programa; al inicio, actuando como un servidor para escuchar las conexiones entrantes de otros usuarios de Spotify así como la conexión de forma intuitiva a otros usuarios para el intercambio de datos en caché, según proceda
