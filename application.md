@@ -43,6 +43,10 @@ Aún así, Spotify sigue siendo el campeón mundial. En realidad, la competencia
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
+https://es.wikipedia.org/wiki/Spotify
+https://es.digitaltrends.com/celular/spotify-vs-apple-music/
+https://es.wikipedia.org/wiki/Daniel_Ek
+https://es.wikipedia.org/wiki/Martin_Lorentzon
+
 
 
