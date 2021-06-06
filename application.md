@@ -38,7 +38,21 @@ Aún así, Spotify sigue siendo el campeón mundial. En realidad, la competencia
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+Algunas de las tecnologías que abarca spotify:
+	
+Symbian OS
+Windows Phone
+BlackBerry OS
+Google Chrome OS
+PlayStation 3
+PlayStation 4
+webOS
+PlayStation 5
+Android
+iOS
+macOS
+Linux
+Microsoft Windows
 
 
 ## Linkiografia
@@ -51,5 +65,5 @@ https://es.wikipedia.org/wiki/Daniel_Ek
 
 https://es.wikipedia.org/wiki/Martin_Lorentzon
 
-
+https://es.wikipedia.org/wiki/Spotify#Modo_de_funcionamiento_y_requisitos_del_sistema
 
