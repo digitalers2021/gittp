@@ -26,11 +26,15 @@ Así que en 2012, YouTube cambió su algoritmo de ranking para recompensar la in
 
 YouTube compartió en 2016 un informe academico el funcionamiento del algoritmo que usa para generar las recomendaciones de videos, adjunto "Deep Neural Networks fot Youtube Recomendations".*
 
+*La tecnología se llama Content ID y permite a los propietarios de derechos de autor deciden qué ocurre cuando el contenido de un video de YouTube coincide con una obra que poseen. Cuando se produce esta situación, el video recibe un reclamo de violación de derechos. En este caso, el propietario puede decidir cómo actuar. Muchas veces permiten que se use el contenido, como en el caso de los Youtubbers, porque la compañía se ve beneficiada por el uso de sus licencias.*
+
+*El sistema comprueba cada momento del vídeo para ver si coinciden. Es capaz de detectar una copia aunque se ralentice o se distorsione el sonido. Cuando se detecta una copia, se aplica automáticamente las políticas de uso del vídeo original.  Esto se hace cada vez que se sube un vídeo, y la rapidez con que se hace es asombrosa.*
+
 
 ## Linkiografia
 https://graffica.info/quien-creo-youtube/*
 *https://es.wikipedia.org/wiki/YouTube*
 *https://www.ciudadano2cero.com/youtube-que-es-como-funciona/#:~:text=La%20variedad%20del%20contenido%2C%20la,lo%20tiene%20muy%20difícil%20competir*
 *https://blog.hootsuite.com/es/algoritmo-de-youtube/*
-
+*https://www.infotechnology.com/online/Asi-funciona-la-tecnologia-que-usa-Youtube-para-detectar-videos-con-copyright-20160816-0001.html*
 
