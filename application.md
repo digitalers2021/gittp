@@ -41,17 +41,29 @@ Aún así, Spotify sigue siendo el campeón mundial. En realidad, la competencia
 Algunas de las tecnologías que abarca spotify:
 	
 Symbian OS
+
 Windows Phone
+
 BlackBerry OS
+
 Google Chrome OS
+
 PlayStation 3
+
 PlayStation 4
+
 webOS
+
 PlayStation 5
+
 Android
+
 iOS
+
 macOS
+
 Linux
+
 Microsoft Windows
 
 
