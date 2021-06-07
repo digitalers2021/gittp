@@ -20,7 +20,7 @@
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+MTProto: encriptación simétrica basada en AES Y RSA
 
 
 ## Linkiografia
