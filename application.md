@@ -1,11 +1,10 @@
-# REDDIT.
+# REDDIT
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador                       | Año de fundacion | Web                   | 
-| REDDIT|:Steven Huffman y Alexis Ohanian.|:23/05/2005      :|http://www.reddit.com/:|
-|        |                                |                  |                       |
+|REDDIT| Steven Huffman y Alexis Ohanian| :23/05/2005| http://www.reddit.com/:                 | 
+
 
 
 ## Sobre el fundador
