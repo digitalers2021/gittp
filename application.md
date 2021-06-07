@@ -1,12 +1,12 @@
-# [NOMBRE DE APLICACION]
+# Telegram
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
-
+| Nombre   | Fundador     | Año de fundacion | Web					    |
+| ---------|:------------:|:----------------:|-------------------------:|
+| Telegram |Nikolai Durov |		2013         |  https://telegram.org/   |
+|		   |Pavel Durov   |					 |     						|
 
 ## Sobre el fundador
 
