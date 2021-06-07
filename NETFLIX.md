@@ -1,5 +1,6 @@
 # [NOMBRE DE APLICACION]
 
+Esto es una prueba
 ## Ficha tecnica
 
 Nombre: Netflix
