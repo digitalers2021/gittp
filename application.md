@@ -17,8 +17,21 @@ Como dato interesante, el 2 de febrero de 2021, Bezos anuncio que dajaria el car
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
+Amazon es una empresa de venta por correo de comercio electronico, con sede en Seattle, Washington
+
+    Dentro de la aplicacion, podemos encontrar que amazon ofrece a cada cliente una experiencia personalizada.
+
+    Caracteristicas como la "Lista de deseos", la "compra en un click", etc, facilitan la navegacion por la gama de productos, y por tanto, ayudan a la decision de compra.
+
+    Tanto minoristas privados como empresas establecidas, pueden ofrecer sus prductos en Amazon, tanto para aumentar sus ventas como para atraer nuevos clientes.
+
+    Amazon tambien ofrece productos bajo su propia marca, como el Amazon Kindle, un dispositivo para leer libros electronicos.
+
+    Todo lo ya mencionado, y muchas cosas mas, hacen la diferencia entre amazon y sus diferentes competencias.
+
+    Una de las diferencias mas notables que podemos encontrar con, por ejemplo, Mercado Libre, es la experiencia del usuario, en Amazon es mucho mas personalizada y acompañada de todo un proceso logistico.
+
+    A su vez, en Mercadolibre se fomenta mas que nada la venta de articulos de terceros, es decir se utiliza  mayoritariamente por negocios, o personas particulares como plataforma de venta online, sin tener articulos de propia autoria.
 
 ## Tecnologias utilizadas
 
@@ -27,6 +40,9 @@ Como dato interesante, el 2 de febrero de 2021, Bezos anuncio que dajaria el car
 
 ## Linkiografia
 
+https://www.nytimes.com/es/2019/12/19/espanol/ciencia-y-tecnologia/amazon-nube-aws-competencia.html
+https://www.america-retail.com/usa/usa-la-nueva-experiencia-tecnologica-de-amazon/
+https://www.muycomputerpro.com/2019/06/07/mejoras-amazon-evento-re-mars
 https://es.wikipedia.org/wiki/Amazon
 https://es.wikipedia.org/wiki/Jeff_Bezos
 
