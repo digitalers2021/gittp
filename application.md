@@ -3,7 +3,7 @@
 ## Ficha tecnica
 
 
-|REDDIT| Steven Huffman y Alexis Ohanian| :23/05/2005| http://www.reddit.com/:                 | 
+|Nombre:REDDIT| Fundadores:Steven Huffman y Alexis Ohanian| Fecha de fundacion:23/05/2005| Link:http://www.reddit.com/:                 | 
 
 
 
