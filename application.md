@@ -26,6 +26,6 @@ Esto es lo mas caracteristico de la aplicacion y es lo que la diferencia de la c
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
+https://es.wikipedia.org/wiki/Reddit
 
 
