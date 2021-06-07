@@ -2,10 +2,10 @@
 
 ## Ficha tecnica
 
-
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
+Nombre: Netflix
+fundador: Marc Randolph y Reed Hastings
+Año de fundacion: 29 de agosto de 1997 
+ Web :https://www.netflix.com/ar/
 
 
 ## Sobre el fundador
