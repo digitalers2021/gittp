@@ -2,15 +2,14 @@
 
 ## Ficha tecnica
 
-| Nombre | Fundador | Año de fundacion | Web |
-| Amazon|:Jeff Bezos:|  :1994:         |https://www.amazon.com|
-|       |            |                 |                      |
-
+| Nombre | Fundador   | Año de Fundación | Web        |
+| ------ | ---------- | ---------------- | ---------- |
+| Amazon | Jeff Bezos | 1994             | amazon.com |
 
 ## Sobre el fundador
 
-Jeff preston bezos, es un empresario y magnate estadounidense. Es el fundador y director ejecutivo de la empresa de  venta online Amazon.
-    
+Jeff preston bezos, es un empresario y magnate estadounidense. Es el fundador y director ejecutivo de la empresa de venta online Amazon.
+
 Nacido en albuquerque, Nuevo Mexico un 12 de enero de 1964 este multimillonario no sabia lo que le esperaba para el resto de su vida, ni mucho menos se imaginaba que iba a llegar a ser el hombre mas rico del mundo.
 
 Como dato interesante, el 2 de febrero de 2021, Bezos anuncio que dajaria el cargo como director ejecutivo de Amazon, para ser reemplazado por Andy Jassy, el jefe de la division de computacion en la nube de Amazon, y Bezos se convertira en el presidente ejecutivo.
@@ -35,8 +34,10 @@ Amazon es una empresa de venta por correo de comercio electronico, con sede en S
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
-
+- Content Delivery Network (CDN): Amazon Cloudfront
+- Frameworks: Amazon Webstore, Joomla, PHP, Perl, Java EE
+- Webservers: Apache
+- Publicidad: Amazon advertising, Google Ads
 
 ## Linkiografia
 
@@ -45,5 +46,5 @@ https://www.america-retail.com/usa/usa-la-nueva-experiencia-tecnologica-de-amazo
 https://www.muycomputerpro.com/2019/06/07/mejoras-amazon-evento-re-mars
 https://es.wikipedia.org/wiki/Amazon
 https://es.wikipedia.org/wiki/Jeff_Bezos
-
-
+https://www.quora.com/What-is-the-technologies-stack-used-by-Amazon-E-commerce-site
+https://www.wappalyzer.com/
