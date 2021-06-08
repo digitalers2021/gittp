@@ -10,8 +10,8 @@
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+Nikolai y Pavel Durov son dos hermanos de origen ruso nacidos en San Petersburgo. 
+Se hicieron conocidos en el año 2006 por haber creado el sitio web VK, una red social muy utilizada en Rusia.
 
 ## Lo mas caracteristico de la aplicacion
 
