@@ -16,13 +16,13 @@ Se hicieron conocidos en el año 2006 por haber creado el sitio web VK, una red 
 ## Lo mas caracteristico de la aplicacion
 
 La aplicación ofrece funciones como:
-..* Encriptación de extremo a extremo
-..* Llamadas de voz y video
-..* Chats secretos
-..* Mensajes basados en la nube
-..* Grupos de hasta 200000 miembros
-..* Interacción con bots
-..* Aplicaciones de cliente de código abierto
+  * Encriptación de extremo a extremo
+  * Llamadas de voz y video
+  * Chats secretos
+  * Mensajes basados en la nube
+  * Grupos de hasta 200000 miembros
+  * Interacción con bots
+  * Aplicaciones de cliente de código abierto
 
 ## Tecnologias utilizadas
 
