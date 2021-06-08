@@ -10,6 +10,10 @@ Año de fundacion: 29 de agosto de 1997
 ## Sobre el fundador
 
 *que informacion hay del fundador?*
+Reed Hastings se graduó de una escuela privada en Cambridge. Posteriormente ingresó a Bowdoin College donde estudió matemáticas.Luego de servir enlos cuerpos de paz  Reed ingresó a Stanford University donde obtuvo su maestría en ciencias computacionales en el año de 1988. Subsecuentemente, Hastings se convirtió en un desarrollador de software, y en 1991 fundó Pure Software (Posteriormente Pure Atria Corporation), la cual vendió en 1997 por una cantidad muy importante.
+Estudió en la Hamilton College de Nueva York, donde se tituló en Geología. Una vez graduado comenzó a trabajar en Cherry Lane Music Company, donde aprendió numerosas técnicas de mercadotecnia, pues complementaba su trabajo con la búsqueda de formas de vender catálogos de música a sus clientes. En este trabajo Randolph quedó fascinado por el uso de softwares de computadoras y la facilidad que estos ofrecían para buscar clientes y analizar sus comportamientos de compra.
+
+En 1984 Marc dio un giro a su carrera profesional iniciando su proceso de emprendimiento publicando una versión estadounidense de la revista "MacUser" y la firma de computadores por pedido MacWarehouse y MicroWarehouse.
 *estuvo en otros proyectos? anteriores o posteriores a esta app?*
 
 ## Lo mas caracteristico de la aplicacion
