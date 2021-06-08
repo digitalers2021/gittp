@@ -19,7 +19,18 @@ Reed Hastings El primer trabajo de Hastings fue en Adaptive Technology, donde in
 ## Lo mas caracteristico de la aplicacion
 
 *Que caracterizo a esta aplicacion por sobre otras en el mercado?*
+
+Como sucedió en su momento con la televisión satelital y por cable, Netflix ha sido acusado de invadir y perturbar los mercados locales. De igual forma, ha sido considerado un vehículo para el imperialismo cultural estadounidense.
+
+El inicio de sus servicios en ciertos países ha estado rodeado de acusaciones de saltarse regulaciones impuestas a otros actores mediáticos, lo cual ha logrado al presentarse, según sea el caso particular, como un servicio de internet o cualquier otro estatus distinto al de empresa mediática o de entretenimiento.
+
+A pesar de las acusaciones de imperialismo cultural estadounidense, Netflix ha realizado esfuerzos para ofrecer contenido con diversidad cultural de diversas partes del mundo para que su catálogo sea de interés en diversas fronteras y alcanzar así a más clientes. Por ejemplo, cuando inició operaciones en Asia, invirtió en más de 180 producciones originales en toda la región, contratando personal local y generando más de 8 mil puestos de trabajo en productores, elenco y equipo, además de rodar en lugares como Bali, Bangkok, Chiang Mai y Penang.
+
 *Que la diferencia de la competencia?*
+
+El éxito de Netflix no se vio en auge hasta sino el año 2015, donde el internet cobraba mas fuerza. Sus competidores no se preocuparon mas que seguir alquilando peliculas y series en formato físico a través de internet, mientra que Netflix apostó a VOD ( retransmisión en directo) tiempo antes, en 2010 precisamente. Hoy en día se diferencia ampliamente de sus competidores no solo por su expansión internacional, sino tambien por los objetivos que tienen (que demás esta decir, que son fuertemente cuestionado por el tratamiento de los datos personales). Su inteligencia artificial es la encargada de esto.
+
+"Las producciones de Netflix estarán cada vez más medidas, basadas en la información que los usuarios ofrecen a la plataforma desde hace años. Lo cual abre nuevos interrogantes en el plano cultural: ¿cuánto lugar habrá para la expresión artística, para lo impredecible, lo instantáneo, aquella sinceridad del espíritu humano que no se explica en algoritmos? Quizás lo preocupante no sea lo que Netflix está haciendo en el mundo televisivo, sino cinematográfico"
 
 ## Tecnologias utilizadas
 
@@ -34,3 +45,4 @@ Además de todos esos detalles que hacen posibles la reproducción de vídeo en 
 ## Linkiografia
 
 https://cincodias.elpais.com/cincodias/2015/11/16/smarttv/1447671643_883789.html
+https://es.wikipedia.org/wiki/Netflix
