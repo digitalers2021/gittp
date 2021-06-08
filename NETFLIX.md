@@ -1,5 +1,4 @@
 # [NOMBRE DE APLICACION]
-
 ## Ficha tecnica
 
 Nombre: Netflix
