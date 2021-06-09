@@ -32,6 +32,7 @@ MTProto: encriptación simétrica basada en AES Y RSA
 ## Linkiografia
 
 <https://en.wikipedia.org/wiki/Telegram_(software)>
+
 <https://telegram.org/evolution>
 
 
