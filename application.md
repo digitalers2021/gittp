@@ -1,30 +1,38 @@
-# [NOMBRE DE APLICACION]
+# Telegram
 
 ## Ficha tecnica
 
 
-| Nombre | Fundador | Año de fundacion | Web |
-| -------|:--------:|:----------------:|----:|
-|        |          |                  |     |
-
+| Nombre   | Fundador     | Año de fundacion | Web					    |
+| ---------|:------------:|:----------------:|-------------------------:|
+| Telegram |Nikolai Durov |		2013         |  https://telegram.org/   |
+|		   |Pavel Durov   |					 |     						|
 
 ## Sobre el fundador
 
-*que informacion hay del fundador?*
-*estuvo en otros proyectos? anteriores o posteriores a esta app?*
+Nikolai y Pavel Durov son dos hermanos de origen ruso nacidos en San Petersburgo. 
+Se hicieron conocidos en el año 2006 por haber creado el sitio web VK, una red social muy utilizada en Rusia.
 
 ## Lo mas caracteristico de la aplicacion
 
-*Que caracterizo a esta aplicacion por sobre otras en el mercado?*
-*Que la diferencia de la competencia?*
+La aplicación ofrece funciones como:
+  * Encriptación de extremo a extremo
+  * Llamadas de voz y video
+  * Chats secretos
+  * Mensajes basados en la nube
+  * Grupos de hasta 200000 miembros
+  * Interacción con bots
+  * Aplicaciones de cliente de código abierto
 
 ## Tecnologias utilizadas
 
-*Nombre una o mas tecnologias utilizada por esta aplicacion*
+MTProto: encriptación simétrica basada en AES Y RSA
 
 
 ## Linkiografia
 
-*Algunos links de donde se haya sacado la informacion*
+<https://en.wikipedia.org/wiki/Telegram_(software)>
+
+<https://telegram.org/evolution>
 
 

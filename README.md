@@ -13,7 +13,7 @@ Todas las respuestas deben ser respondidas en ese archivo y tiene que haber al m
 El TP solo tendra calificacion *Aprobado* o *Revision*. 
 
 ## Requerimientos
-- Fecha de entrega: 3/06/2021
+- Fecha de entrega: 9/06/2021
 - Miembros por grupo: 3
 
 ## References
