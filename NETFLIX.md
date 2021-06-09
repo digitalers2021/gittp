@@ -26,7 +26,7 @@ El inicio de sus servicios en ciertos países ha estado rodeado de acusaciones d
 
 A pesar de las acusaciones de imperialismo cultural estadounidense, Netflix ha realizado esfuerzos para ofrecer contenido con diversidad cultural de diversas partes del mundo para que su catálogo sea de interés en diversas fronteras y alcanzar así a más clientes. Por ejemplo, cuando inició operaciones en Asia, invirtió en más de 180 producciones originales en toda la región, contratando personal local y generando más de 8 mil puestos de trabajo en productores, elenco y equipo, además de rodar en lugares como Bali, Bangkok, Chiang Mai y Penang.
 
-*Que la diferencia de la competencia?*
+## Que la diferencia de la competencia?*
 
 El éxito de Netflix no se vio en auge hasta sino el año 2015, donde el internet cobraba mas fuerza. Sus competidores no se preocuparon mas que seguir alquilando peliculas y series en formato físico a través de internet, mientra que Netflix apostó a VOD ( retransmisión en directo) tiempo antes, en 2010 precisamente. Hoy en día se diferencia ampliamente de sus competidores no solo por su expansión internacional, sino tambien por los objetivos que tienen (que demás esta decir, que son fuertemente cuestionado por el tratamiento de los datos personales). Su inteligencia artificial es la encargada de esto.
 
@@ -38,7 +38,12 @@ Toda la tecnología que hay detrás de Netflix, explicada paso por paso
 
 A grandes rasgos, que Netflix se sirve en su interior de una enorme cantidad de software libre, entre las cuales hay más de 8 aplicaciones backend para mostrar a los espectadores todo lo que se puede visualizar en pantalla. Y por otro lado, para ofrecer la mejor calidad de imagen se utilizan más de 5 codecs diferentes de vídeo y más de 3 codecs diferentes de audio. Y es que, como nos explican, estos "formatos" se emplean de forma diferente en función del dispositivo que solicita la reproducción.
 
-¿De dónde sale todo lo que vemos en Netflix?😎️
+## Lenguajes de programación que utiliza Netflix
+
+Netflix es uno de los principales valedores de las bases de datos NoSQL ya que utilizan Cassandra para su capa de persistencia.
+Se utiliza Hadoop para el procesamiento distribuido y los ingenieros de la casa han desarrollado una capa de memoria caché intermedia llamada EVCache. En Netflix estos ingenieros tienen libertad tanto para realizar estas nuevas herramientas tipo EVCache como para elegir el lenguaje de programación más adecuado según el proyecto, nada de ataduras hacia uno en concreto. De ahí que en sus tripas encontremos desde Java (lenguaje original del Core del proyecto) a Node.js (el back de la actual aplicación) y microservicios y alertas en Python pasando por diversos frameworks Javascript (jQuery, React) para el desarrollo front o Objective-C y Android ya que las aplicaciones que realizan para los distintos dispositivos suelen ser nativas.
+
+## ¿De dónde sale todo lo que vemos en Netflix?😎️
 
 Además de todos esos detalles que hacen posibles la reproducción de vídeo en la máxima calidad, y de los que depende que se vea la interfaz que corresponde, es interesante conocer de dónde salen los archivos que Netflix muestra en nuestras pantallas. Como nos explican en RedesZone, Netflix se basa en Amazon y utiliza sus servidores EC2 para la computación de toda la información necesaria. Sabemos que superan 1 petabyte de almacenamiento en los servidores Amazon S3, y por otro lado cuentan con el apoyo de los proveedores de servicios de Internet para facilitar el servidor caché, lo que garantiza una velocidad de carga óptima para el sitio web.
 
@@ -46,3 +51,5 @@ Además de todos esos detalles que hacen posibles la reproducción de vídeo en 
 
 https://cincodias.elpais.com/cincodias/2015/11/16/smarttv/1447671643_883789.html
 https://es.wikipedia.org/wiki/Netflix
+https://www.xataka.com/servicios/netflix-no-es-solo-video-bajo-demanda-es-uno-de-los-grandes-monstruos-tecnologicos-de-la-historia
+
